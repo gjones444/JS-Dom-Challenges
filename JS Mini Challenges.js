@@ -67,3 +67,4 @@ function pickADoor(doorNumber){
 		alert("please choose a door from numbers 1 - 3")
 	}
 }
+pickADoor(1)
